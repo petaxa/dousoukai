@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
     title: "dousoukai",
     description: "A VitePress Site",
+    base:"/dousoukai/",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
