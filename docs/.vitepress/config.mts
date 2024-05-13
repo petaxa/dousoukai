@@ -8,14 +8,18 @@ export default defineConfig({
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            { text: "Home", link: "/" },
             { text: "同窓会", link: "/dousoukai" },
+            { text: "リンク集", link: "/links" },
         ],
 
         sidebar: [
             {
                 text: "同窓会",
                 link: "/dousoukai",
+            },
+            {
+                text: "リンク集",
+                link: "/links",
             },
         ],
         socialLinks: [
