@@ -5,7 +5,7 @@ export default defineConfig({
     title: "dousoukai",
     description: "A VitePress Site",
     base: "/dousoukai/",
-    head: [["link", { rel: "icon", type: "image/svg+xml", href: "/icon.svg" }]],
+    head: [["link", { rel: "icon", type: "image/svg+xml", href: "/dousoukai/icon.svg" }]],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         logo: { src: "/icon.svg", width: 24, height: 24 },
