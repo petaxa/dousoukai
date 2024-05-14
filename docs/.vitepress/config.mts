@@ -4,9 +4,11 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
     title: "dousoukai",
     description: "A VitePress Site",
-    base:"/dousoukai/",
+    base: "/dousoukai/",
+    head: [["link", { rel: "icon", type: "image/svg+xml", href: "/dousoukai/icon.svg" }]],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
+        logo: { src: "/icon.svg", width: 24, height: 24 },
         nav: [
             { text: "同窓会", link: "/dousoukai" },
             { text: "リンク集", link: "/links" },
@@ -23,7 +25,7 @@ export default defineConfig({
             },
         ],
         socialLinks: [
-            { icon: "github", link: "https://github.com/vuejs/vitepress" },
+            { icon: "github", link: "https://github.com/petaxa/dousoukai" },
         ],
     },
 });
