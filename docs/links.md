@@ -21,3 +21,11 @@
 ## レンタルキッチン
 
 - [三協フロンテア㈱　つくば出張所](https://www.instabase.jp/space/7417475586?planType=hourly)
+
+## GoogleMap
+
+- [三協フロンテア㈱　つくば出張所](https://maps.app.goo.gl/5ueQ4d7BMw8yKtRA6)
+- [阿見町役場](https://maps.app.goo.gl/NmJ7BEUbmbigwXs49)
+- [つくば駅](https://maps.app.goo.gl/7tqfUdZZZbPaDxMn6)
+
+[経路](https://maps.app.goo.gl/k2ZWSsDjisUMCkVaA)
